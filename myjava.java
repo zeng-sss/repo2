@@ -18,6 +18,9 @@ public class ItemsMapperTest {
 		sou(eeeeeeeeeeeeeeee);
 		sou(eeeeeeeeeeeeeeee);
 		sou(eeeeeeeeeeeeeeee);
+		sou(qqq);
+		sou(qqq);
+		sou(qqq);
 
     }
 

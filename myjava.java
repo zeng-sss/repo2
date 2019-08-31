@@ -12,6 +12,12 @@ public class ItemsMapperTest {
 		sou(dddddddddddddddddddddddddd);
 		sou(dddddddddddddddddddddddddd);
 		sou(dddddddddddddddddddddddddd);
+		sou(eeeeeeeeeeeeeeee);
+		sou(eeeeeeeeeeeeeeee);
+		sou(eeeeeeeeeeeeeeee);
+		sou(eeeeeeeeeeeeeeee);
+		sou(eeeeeeeeeeeeeeee);
+		sou(eeeeeeeeeeeeeeee);
 
     }
 

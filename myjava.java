@@ -20,7 +20,8 @@ public class ItemsMapperTest {
 		sou(eeeeeeeeeeeeeeee);
 		sou(wwwwwwwwwwwww);
 		sou(wwwwwwwwwwwww);
-		sou(wwwwwwwwwwwww);		sou(qqq);
+		sou(wwwwwwwwwwwww);		
+		sou(qqq);
 		sou(qqq);
 		sou(qqq);
     }

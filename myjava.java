@@ -24,6 +24,7 @@ public class ItemsMapperTest {
 		sou(qqq);
 		sou(qqq);
 		sou(qqq);
+		sou(aaa);
     }
 
 }
